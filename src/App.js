@@ -6,8 +6,8 @@ import WeatherPanel from './components/WeatherPanel';
 function App() {
   return (
     <div className="App">
-      <NavBar/>
-      <WeatherPanel/> 
+      <NavBar />
+      <WeatherPanel />
     </div>
   );
 }

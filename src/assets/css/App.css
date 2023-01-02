@@ -1,40 +1,44 @@
-body{
+body {
   background-color: #2F3544;
 }
 
 .App {
   text-align: center;
-  
+
 }
 
-.input-group{
+.input-group {
   width: 60%;
 }
 
-.card{
+.card {
   max-width: 60%;
 }
 
-.card-title{
+.card-title {
   position: absolute;
   padding: 20px;
 }
 
-.card-date{
+.card-date {
   position: absolute;
   padding-left: 20px;
   margin-top: 60px;
 }
 
-.card-temp{
+.card-temp {
   position: absolute;
   padding-left: 20px;
   margin-top: 260px;
   font-size: 50px;
 }
 
-.card-desc{
+.card-desc {
   position: absolute;
   padding-left: 20px;
   margin-top: 320px;
+}
+
+.container-name {
+  background-color: #2F3544;
 }
