@@ -42,3 +42,29 @@ body {
 .container-name {
   background-color: #2F3544;
 }
+
+.imagen-clima {
+  height: 360px;
+}
+
+/**/
+
+.container-clima {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 20px;
+  background-color: #212529;
+  padding: 10px 0 10px 0;
+}
+
+h5,
+h1,
+h2,
+p,
+hr {
+  color: white;
+}
